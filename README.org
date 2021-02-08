@@ -1,0 +1,9 @@
+#+TITLE: quixotech.uk
+
+* Introduction
+* Heading 1
+*bold*
+* Heading 2
+/italics/
+* Heading 3
+=monospace=
